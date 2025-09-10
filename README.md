@@ -6,8 +6,8 @@ Me chamo Lucas Ferreira Souza, tenho 32 anos e sou natural de São Paulo Capital
 <p> 💻 Aspirante - Analista de Sistemas / Desenvolvedor FullStack**  
 🚀 Foco em Testes de Software, Desenvolvimento Web e Integração de Sistemas. </p>
 
-<p> 🌱 Sobre mim
-Sou apaixonado por tecnologia e inovação. Tenho interesse em desenvolvimento de sistemas, qualidade de software e aprendizado contínuo.  
+<title> 🌱 Sobre mim </title>
+<p> Sou apaixonado por tecnologia e inovação. Tenho interesse em desenvolvimento de sistemas, qualidade de software e aprendizado contínuo.  
 Acredito em valores como **colaboração, inclusão e sustentabilidade** na tecnologia. </p>
 
 <p align="left">
