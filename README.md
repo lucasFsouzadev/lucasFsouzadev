@@ -3,17 +3,14 @@
 **`Iniciante ADS - Analise e Desenvolvimento de Sistemas`**
 
 Me chamo Lucas Ferreira Souza, tenho 32 anos e sou natural de São Paulo Capital. Obtenho curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul.
-💻 Aspirante - Analista de Sistemas / Desenvolvedor FullStack**  
-🚀 Foco em Testes de Software, Desenvolvimento Web e Integração de Sistemas.
+<p> 💻 Aspirante - Analista de Sistemas / Desenvolvedor FullStack**  
+🚀 Foco em Testes de Software, Desenvolvimento Web e Integração de Sistemas. </p>
 
 <p align="left">
     <a href=
         <img 
             alt= 
             title=
-                🌱 Sobre mim
-Sou apaixonado por tecnologia e inovação. Tenho interesse em desenvolvimento de sistemas, qualidade de software e aprendizado contínuo.  
-Acredito em valores como **colaboração, inclusão e sustentabilidade** na tecnologia.
             src=
         />
     </a>
