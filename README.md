@@ -16,7 +16,6 @@ Me chamo Lucas Ferreira Souza, tenho 32 anos e sou natural de São Paulo Capital
 Sou apaixonado por tecnologia e inovação. Tenho interesse em desenvolvimento de sistemas, qualidade de software e aprendizado contínuo.  
 Acredito em valores como **colaboração, inclusão e sustentabilidade** na tecnologia.
 
-           title=
             src=
         />
     </a>
